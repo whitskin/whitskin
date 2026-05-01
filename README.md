@@ -1,4 +1,5 @@
-# Hello, I'm Dream41
+# Hello 👋, I'm Dream41
+### Full Stack Developer
 
 ## Skills
 
@@ -13,3 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
 </p>
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whitskin&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
